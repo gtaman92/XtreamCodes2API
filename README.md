@@ -28,3 +28,9 @@ Change a Stream Source
 Restart a Stream
 ----------------
 - Run the script to restart a stream. No changes to the database required.
+
+Future Plans
+------------
+- Full Admin UI interface. Either written from scratch or ported from Xtream Codes 1.6x.
+- Full stream control (create, restart, stop, delete, ban, unban).
+- Full user control, bouquet management, mag users, enigma, timeshift, settings etc.
