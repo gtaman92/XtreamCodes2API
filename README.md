@@ -3,8 +3,8 @@ Wrapper to allow continuation of service during the Xtream Codes downtime.
 
 Current Functionality
 ---------------------
-- Restart stream.
-- Create stream.
+- Restart existing stream.
+- Start new stream.
 
 How to Use
 ----------
