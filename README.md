@@ -8,9 +8,9 @@ Current Functionality
 
 How to Use
 ----------
-- Place the php file here: /home/xtreamcodes/iptv_xtream_codes/wwwdir/includes/restart_stream.php
+- Place the php file here: `/home/xtreamcodes/iptv_xtream_codes/wwwdir/includes/restart_stream.php`
 - Edit the MySQL connection details and authorisation password in the php file. Save it.
-- Run the script: http://IPADDRESS:PORT/includes/restart_stream.php?auth=PASSWORD&id=STREAM_ID
+- Run the script: `http://IPADDRESS:PORT/includes/restart_stream.php?auth=PASSWORD&id=STREAM_ID`
 
 Create a Stream
 ---------------
