@@ -16,6 +16,7 @@ Create a Stream
 ---------------
 - Enter the MySQL database.
 - Create a new stream under the `streams` table.
+- Add the `stream_id` to the relevant bouquet in the `bouquets` table.
 - Run the script to analyse the stream and start it.
 
 Change a Stream Source
